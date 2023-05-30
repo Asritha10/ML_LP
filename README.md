@@ -27,11 +27,10 @@ The following are the variables that I believe can have an impact on loan approv
 • Loan Term: Loans with shorter terms and smaller amounts should have a better probability of being approved.
 
 • EMI: Lower monthly payment amounts increase the likelihood that a loan will be approved.
-# **Data Source:**
-# For this problem, we have two CSV files: train and test. Train file will be used for training the model, i.e., our model will learn from this file. It contains all the independent variables and the target variable. Test file contains all the independent variables, but not the target variable. We will apply the model to predict the target variable for the test data. Given below is the description for each variable with its data type.
-# **    
-# We have 614 rows and 13 columns in the train dataset and 367 rows and 12 columns in the test dataset.
-#
+ **Data Source:**
+
+For this problem, we have two CSV files: train and test. Train file will be used for training the model, i.e., our model will learn from this file. It contains all the independent variables and the target variable. Test file contains all the independent variables, but not the target variable. We will apply the model to predict the target variable for the test data. Given below is the description for each variable with its data type.We have 614 rows and 13 columns in the train dataset and 367 rows and 12 columns in the test dataset.
+
 
 
 
